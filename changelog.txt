@@ -1,5 +1,7 @@
 20220717
 new bot
+bookmarks
+lnbit.txt
 
 
 20220716
